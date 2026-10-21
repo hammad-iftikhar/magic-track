@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key><string>com.hammad.magictrack</string>
+	<key>CFBundleName</key><string>MagicTrack</string>
+	<key>CFBundleDisplayName</key><string>MagicTrack</string>
+	<key>CFBundleExecutable</key><string>MagicTrack</string>
+	<key>CFBundlePackageType</key><string>APPL</string>
+	<key>CFBundleShortVersionString</key><string>1.0</string>
+	<key>CFBundleVersion</key><string>1</string>
+	<key>LSMinimumSystemVersion</key><string>13.0</string>
+	<key>LSUIElement</key><true/>
+	<key>NSAccessibilityUsageDescription</key><string>MagicTrack pauses the cursor while the numpad is open and types keypad keys into the app you're using.</string>
+</dict>
+</plist>
